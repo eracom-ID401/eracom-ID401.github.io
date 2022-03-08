@@ -1,4 +1,4 @@
-# eracom-ID401.github.io
+# eracom ID401
 
 ## Supports de cours
 
