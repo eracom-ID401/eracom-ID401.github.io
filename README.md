@@ -12,7 +12,7 @@
 
 ## Liens école
 
-- 🆔 [Infos pour élèves filière ID](https://eracom.ch/informations-eleves-id/)
+- 📜 [Infos pour élèves filière ID](https://eracom.ch/informations-eleves-id/)
 - 📊 [Plan de formation](https://code.eracom-pedagogique.ch/formation-imd-2020/cursus-plein-temps/)
 
 ---
