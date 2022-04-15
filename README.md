@@ -8,7 +8,7 @@
 
 - ♎️ [Github ID401](https://github.com/eracom-id401)
 - 💹 [Podsie](https://student.podsie.org/)
-- 🆘 [Cours-Web.ch](https://cours-web.ch/)
+- ✴️ [Cours-Web.ch](https://cours-web.ch/)
 
 ## Liens école
 
