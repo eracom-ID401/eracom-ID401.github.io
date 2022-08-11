@@ -15,7 +15,11 @@
 - 📊 [Plan de formation](https://code.eracom-pedagogique.ch/formation-imd/cursus-plein-temps/)
 - 📜 [Infos pour élèves filière ID](https://eracom.ch/informations-eleves-id/)
 
-
 ---
 
 📝 [Editer cette page](https://github.com/eracom-ID401/eracom-ID401.github.io/edit/main/README.md)
+
+<style>
+  .markdown-body h1:first-child { display:none }
+  .markdown-body h1 { margin-top: 0}
+</style>
