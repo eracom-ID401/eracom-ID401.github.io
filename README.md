@@ -2,7 +2,7 @@
 
 ## Supports de cours
 
-- 💻 [Développement d’interfaces 2](https://id401.ch/cours-dev2-css/)
+- 💻 [Développement d’interfaces 2](https://id401.ch/cours-dev2-css/) (archive)
 
 ## Liens utiles
 
@@ -13,8 +13,9 @@
 
 ## Liens école
 
+- 📊 [Plan de formation](https://code.eracom-pedagogique.ch/formation-imd/cursus-plein-temps/)
 - 📜 [Infos pour élèves filière ID](https://eracom.ch/informations-eleves-id/)
-- 📊 [Plan de formation](https://code.eracom-pedagogique.ch/formation-imd-2020/cursus-plein-temps/)
+
 
 ---
 
