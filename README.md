@@ -8,6 +8,7 @@
 ## Liens utiles
 
 - ♎️ [Github ID401](https://github.com/eracom-id401)
+- [WordPress ID401](https://wp.id401.ch/)
 - ✴️ [Cours-Web.ch](https://cours-web.ch/)
 - [Fontes Typo IMD](https://code.eracom-pedagogique.ch/fontes-imd/)
 
