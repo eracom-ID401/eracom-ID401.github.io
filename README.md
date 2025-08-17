@@ -3,7 +3,7 @@
 ## Supports de cours
 
 - 🎨 [Design d'interfaces 4](https://docs.google.com/presentation/d/16MGLJ83Hx8-zmewiK8i1DfOeooALl4Ezpdbb1GvIBfo/edit?usp=sharing)
-- 💻 [Développement d’interfaces 2](https://id401.ch/cours-dev2-css/) (archive S3)
+- 💻 [Développement d’interfaces 2](https://eracom-id401.github.io/cours-dev2-css/) (archive S3)
 
 ## Liens utiles
 
